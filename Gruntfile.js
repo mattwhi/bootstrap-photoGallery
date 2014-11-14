@@ -357,7 +357,7 @@ module.exports = function (grunt) {
         ]
       },
       files: {
-        src: '_gh_pages/**/*.html'
+        src: '../mattwhi.github.io/**/*.html'
       }
     },
 
